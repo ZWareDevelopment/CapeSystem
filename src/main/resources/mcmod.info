@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zware",
+  "name": "ZWare.cc",
+  "description": "Minecraft Utility mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Zihasz", "Hqrion", "Historian"],
+  "credits": "Your mom :wink:",
+  "logoFile": "zware.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

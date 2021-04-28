@@ -1,0 +1,1 @@
+You would obviously have white_cape.png and dark_cape.png here

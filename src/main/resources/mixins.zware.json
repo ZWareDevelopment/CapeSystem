@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "compatibilityLevel": "JAVA_8",
+  "package": "dev.zihasz.zware.mixin.mixins",
+  "refmap": "mixins.zware.refmap.json",
+  "mixins": [
+    "MixinAbstractClientPlayer",
+    "MixinEntityPlayerSP",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP"
+  ]
+}
